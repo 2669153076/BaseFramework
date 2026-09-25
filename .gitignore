@@ -1,0 +1,10 @@
+/.vs
+*.csproj
+/AssetBundles/PC
+.vsconfig
+/Library
+/Logs
+/Assets/Test
+/obj
+/UserSettings
+/Assets/Resources/Test
