@@ -1,0 +1,40 @@
+{
+    "entries": [
+        {
+            "Key": "Common.OK",
+            "Type": 0,
+            "Value": "确定",
+            "AssetPath": ""
+        },
+        {
+            "Key": "Common.Cancel",
+            "Type": 0,
+            "Value": "取消",
+            "AssetPath": ""
+        },
+        {
+            "Key": "Common.Back",
+            "Type": 0,
+            "Value": "返回",
+            "AssetPath": ""
+        },
+        {
+            "Key": "Player.Level",
+            "Type": 0,
+            "Value": "等级 {0}",
+            "AssetPath": ""
+        },
+        {
+            "Key": "Player.Info",
+            "Type": 0,
+            "Value": "玩家：{0}  等级：{1}",
+            "AssetPath": ""
+        },
+        {
+            "Key": "UI.Main.Logo",
+            "Type": 1,
+            "Value": "",
+            "AssetPath": "Localization/Sprite/CN/Logo"
+        }
+    ]
+}

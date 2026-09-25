@@ -1,0 +1,40 @@
+{
+    "entries": [
+        {
+            "Key": "Common.OK",
+            "Type": 0,
+            "Value": "OK",
+            "AssetPath": ""
+        },
+        {
+            "Key": "Common.Cancel",
+            "Type": 0,
+            "Value": "Cancel",
+            "AssetPath": ""
+        },
+        {
+            "Key": "Common.Back",
+            "Type": 0,
+            "Value": "Back",
+            "AssetPath": ""
+        },
+        {
+            "Key": "Player.Level",
+            "Type": 0,
+            "Value": "Level {0}",
+            "AssetPath": ""
+        },
+        {
+            "Key": "Player.Info",
+            "Type": 0,
+            "Value": "Player: {0}  Level: {1}",
+            "AssetPath": ""
+        },
+        {
+            "Key": "UI.Main.Logo",
+            "Type": 1,
+            "Value": "",
+            "AssetPath": "Localization/Sprite/EN/Logo"
+        }
+    ]
+}
